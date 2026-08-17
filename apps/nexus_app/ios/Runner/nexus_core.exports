@@ -1,0 +1,5 @@
+_nexus_create
+_nexus_call
+_nexus_last_error
+_nexus_string_free
+_nexus_destroy

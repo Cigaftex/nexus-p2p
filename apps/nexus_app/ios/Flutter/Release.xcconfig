@@ -1,0 +1,2 @@
+#include "Generated.xcconfig"
+OTHER_LDFLAGS = $(inherited) -Wl,-force_load,$(PROJECT_DIR)/libnexus_core.a -Wl,-exported_symbols_list,$(PROJECT_DIR)/Runner/nexus_core.exports
